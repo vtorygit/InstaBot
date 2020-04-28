@@ -15,8 +15,16 @@ To use first run in home directory
 navigate to the folder InstaBot (like `cd InstaBot`)
 
 launch jupyter notebook or run the python file (not availible for now)
-----------
 
+Running python scripts to perform several functions
+----------
+### Follow
+
+navigate to the folder InstaBot (like `cd InstaBot`)
+
+run `python3 promote_run.py`
+
+and insert all information required
 
 ----------
 
