@@ -26,7 +26,7 @@ run `python3 promote_run.py`
 
 and insert all information required
 
-![Screenshot](/home/tory/Desktop/rect12.png)
+![](rect12.png)
 
 
 ----------
