@@ -4,7 +4,7 @@
 # In[1]:
 
 
-from InstaBot_selenium_version_cleanup_comments import Igbot
+from Bot_src import Igbot
 
 
 # In[ ]:
