@@ -9,7 +9,7 @@ Selenium In$sta9ram scrapper is meant to perform several functions:
 
 
 
-To run do 
+To use first run in home directory 
 `git clone "https://github.com/vtorygit/InstaBot.git"`
 
 navigate to the folder InstaBot (like `cd InstaBot`)
