@@ -25,7 +25,8 @@ navigate to the folder InstaBot (like `cd InstaBot`)
 run `python3 promote_run.py`
 
 and insert all information required
-/home/tory/Desktop/rect12.png
+
+![Screenshot](/home/tory/Desktop/rect12.png)
 
 
 ----------
