@@ -100,6 +100,7 @@ class Igbot:
         N - number of randomly chosen accounts among followers of target user
         target_u_followers - the result of getUserFollowers(), a list of names collected
         current_followers - the followers you already have as a list
+        current_followings - the followings you already have as a list
         
         This function chooses N accounts for you to follow and conducts following
         """
@@ -147,6 +148,16 @@ class Igbot:
         return to_follow_clear
     
     def unfollow_unmut(self, current_followers, current_followings):
+    
+        """
+        current_followers, current_followings
+        ---------
+        
+        current_followers - the followers you already have as a list
+        current_followings - the followings you already have as a list
+        
+        """
+        
         to_unfollow = []
         for user in current_followings:
             if user not in current_followers:
