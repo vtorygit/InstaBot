@@ -1,21 +1,11 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
 
-
-from Bot_src import Igbot
-
-
-# In[ ]:
-
+from jupyter_notebook.Bot_src import Igbot
 
 print("Specify language: 'ru' or 'eng'")
 l = input()
-
-
-# In[ ]:
-
 
 if l == 'ru':
     print("Введите, пожалуйста, логин:")
@@ -57,33 +47,6 @@ else:
     print("How many accounts to follow (not more than 10 to avoid blocking)?")
     N = int(input())
     bot.promote(N, user_f, my_followers, my_followings)
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
 
 
 
