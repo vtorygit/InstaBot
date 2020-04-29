@@ -2,8 +2,8 @@
 Selenium In$sta9ram scrapper is meant to perform several functions:
 * login (both in headless and not modes)
 * collect a list of followers or followings of a user
-* choose randow N accounts to follow (without violation of daily limits set by service)
-* perform following chosen account
+* choose randow N accounts to follow
+* perform following chosen account (without violation of daily limits set by service)
 * perform unfollowing unmutual followings
 
 
