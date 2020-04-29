@@ -25,8 +25,10 @@ launch jupyter notebook or run the python file
 Using jupyter notebooks
 ---------
 
+
 launch anaconda, navigate to the folder jupyter_notebook and start the file Demonstration.ipynb or it's copy in the same  (jupyter_notebook) directory.
 
+![](example2.png)
 
 
 Running python scripts to perform several functions
