@@ -21,6 +21,14 @@ navigate to the folder InstaBot (like `cd InstaBot`)
 
 launch jupyter notebook or run the python file
 
+
+Using jupyter notebooks
+---------
+
+launch anaconda, navigate to the folder jupyter_notebook and start the file Demonstration.ipynb or it's copy in the same  (jupyter_notebook) directory.
+
+
+
 Running python scripts to perform several functions
 ----------
 ### Follow
