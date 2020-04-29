@@ -14,7 +14,7 @@ To use first run in home directory
 
 navigate to the folder InstaBot (like `cd InstaBot`)
 
-launch jupyter notebook or run the python file (not availible for now)
+launch jupyter notebook or run the python file
 
 Running python scripts to perform several functions
 ----------
