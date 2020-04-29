@@ -7,6 +7,11 @@ Selenium In$sta9ram scrapper is meant to perform several functions:
 * perform unfollowing unmutual followings
 
 
+----Prerequisites------
+
+* Chrome
+* `pip install -r requirements.txt`
+
 
 
 To use first run in home directory 
